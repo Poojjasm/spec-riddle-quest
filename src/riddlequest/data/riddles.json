@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What has keys but no locks, space but no room, and you can enter but can't go inside?",
+    "answers": ["keyboard", "a keyboard"]
+  },
+  {
+    "question": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",
+    "answers": ["echo", "an echo"]
+  },
+  {
+    "question": "The more you take, the more you leave behind. What am I?",
+    "answers": ["footsteps", "steps", "footprints"]
+  },
+  {
+    "question": "What has a head, a tail, is brown, and has no legs?",
+    "answers": ["penny", "a penny", "coin", "a coin"]
+  },
+  {
+    "question": "I have cities, but no houses live there. I have mountains, but no trees grow there. I have water, but no fish swim there. I have roads, but no cars drive there. What am I?",
+    "answers": ["map", "a map"]
+  },
+  {
+    "question": "What gets wetter as it dries?",
+    "answers": ["towel", "a towel"]
+  },
+  {
+    "question": "I have hands but can't clap. What am I?",
+    "answers": ["clock", "a clock", "watch", "a watch"]
+  },
+  {
+    "question": "What can travel around the world while staying in a corner?",
+    "answers": ["stamp", "a stamp", "postage stamp", "a postage stamp"]
+  },
+  {
+    "question": "What has one eye but can't see?",
+    "answers": ["needle", "a needle"]
+  },
+  {
+    "question": "I'm light as a feather, yet the strongest person can't hold me for five minutes. What am I?",
+    "answers": ["breath", "your breath", "air"]
+  },
+  {
+    "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+    "answers": ["letter m", "the letter m", "m"]
+  },
+  {
+    "question": "What has a neck but no head?",
+    "answers": ["bottle", "a bottle"]
+  },
+  {
+    "question": "The more you have of it, the less you see. What is it?",
+    "answers": ["darkness", "dark"]
+  },
+  {
+    "question": "What has many teeth but can't bite?",
+    "answers": ["comb", "a comb"]
+  },
+  {
+    "question": "What runs but has no legs?",
+    "answers": ["river", "a river", "water", "clock", "a clock"]
+  },
+  {
+    "question": "I have branches, but no fruit, trunk, or leaves. What am I?",
+    "answers": ["bank", "a bank"]
+  },
+  {
+    "question": "What has a bottom at the top?",
+    "answers": ["legs", "your legs", "leg"]
+  },
+  {
+    "question": "I go up but never come down. What am I?",
+    "answers": ["age", "your age"]
+  },
+  {
+    "question": "What can you catch but not throw?",
+    "answers": ["cold", "a cold"]
+  },
+  {
+    "question": "What has four wheels and flies?",
+    "answers": ["garbage truck", "a garbage truck", "rubbish truck", "a rubbish truck"]
+  },
+  {
+    "question": "What is full of holes but still holds water?",
+    "answers": ["sponge", "a sponge"]
+  },
+  {
+    "question": "What invention lets you look right through a wall?",
+    "answers": ["window", "a window"]
+  },
+  {
+    "question": "What has a thumb and four fingers but is not a hand?",
+    "answers": ["glove", "a glove"]
+  },
+  {
+    "question": "What is always in front of you but can't be seen?",
+    "answers": ["future", "the future"]
+  },
+  {
+    "question": "What word is spelled incorrectly in every dictionary?",
+    "answers": ["incorrectly"]
+  }
+]
